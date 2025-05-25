@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding-bottom: px; 
+  }
+  
+  .emergency-btn {
+    position: relative;
+    bottom: 15px;
+    left: 85%;
+    transform: translateX(-50%);
+    background-color: red;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+  }
+  
+  .emergency-btn:hover {
+    background-color: darkred;
+  }

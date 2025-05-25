@@ -1,0 +1,2 @@
+/index.html   /signup.html   301
+/login.html   /dash.html   301
