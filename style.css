@@ -1156,7 +1156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #loader h1{
-  font-size: 5vw;
+  font-size: 8vw;
   color: transparent;
   background: linear-gradient(to left ,white,blue 90%);
   position: absolute;
